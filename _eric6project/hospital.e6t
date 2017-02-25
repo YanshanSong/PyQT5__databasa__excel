@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project hospital -->
+<!-- Saved: 2017-02-25, 16:37:21 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{1c42fcd7-ac1c-4d43-90de-0e9cb3181a61}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-02-25, 16:36:35</Created>
+    <Resource>
+      <Filename>main2.py</Filename>
+      <Linenumber>31</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{0aff7e29-7cc9-4b8a-b12e-01c7c3a1b223}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-02-25, 16:36:35</Created>
+    <Resource>
+      <Filename>main2.py</Filename>
+      <Linenumber>39</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{13e0c420-a0e6-45cf-8bb8-5c33a783f642}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-02-25, 16:37:18</Created>
+    <Resource>
+      <Filename>main.py</Filename>
+      <Linenumber>40</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{5f01162a-5ddf-4af9-9cb5-9945346aee7e}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-02-25, 16:37:18</Created>
+    <Resource>
+      <Filename>main.py</Filename>
+      <Linenumber>52</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{b9707805-4fb0-4ae8-9af8-d0a9897adef9}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-02-25, 16:37:18</Created>
+    <Resource>
+      <Filename>main.py</Filename>
+      <Linenumber>220</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{02ce94ab-80a2-414b-a5c9-ff5450e3e9f2}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-02-25, 16:37:18</Created>
+    <Resource>
+      <Filename>main.py</Filename>
+      <Linenumber>259</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
